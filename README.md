@@ -34,12 +34,13 @@ To get started with Django-CRM, follow these guides:
 
 - [Installation and Configuration Guide](https://github.com/DjangoCRM/django-crm/blob/main/docs/installation_and_configuration_guide.md)
 - [User Guide](https://github.com/DjangoCRM/django-crm/blob/main/docs/django-crm_user_guide.md)
+- Visit [Read The Docs](https://django-crm-admin.readthedocs.io)
 
 ### Compatibility
 
-- **Django**: 5.0.x
+- **Django**: 5.2.x
 - **Python**: 3.10+
-- **Databases**: MySQL 8.0.11+ and PostgreSQL 12+
+- **Databases**: MySQL 8.0.11+ and PostgreSQL 14+
 
 ## Contributing
 
